@@ -35,4 +35,4 @@ The app also provides a **visual chart** to show which category has the highest 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Only1Ansary/Expense-App.git
+   git clone https://github.com/Only1Ansary/Expense-Tracker-App.git
