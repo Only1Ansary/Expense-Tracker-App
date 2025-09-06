@@ -24,10 +24,8 @@ The app also provides a **visual chart** to show which category has the highest 
 
 ## 📸 Screenshots
 - Home Screen  
-- Add Expense Screen  
-- Expense Chart  
+- Add Expense Screen
 
 ```markdown
 ![Home Screen](screenshots/home.png)  
-![Add Expense](screenshots/add.png)  
-![Expense Chart](screenshots/chart.png)  
+![Add Expense](screenshots/add.png)
