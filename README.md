@@ -1,16 +1,33 @@
-# app01
+# Expense Tracker App 💰
 
-A new Flutter project.
+## About the Project
+A simple **Flutter** application that helps users track their daily expenses.  
+Users can log purchases by category (Food, Clothes, Travel, Work), enter the amount spent, and record the purchase date.  
+The app also provides a **visual chart** to show which category has the highest spending.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Add new expenses with category, amount, and date.  
+- View a list of all recorded expenses.  
+- Organized categories (Food, Clothes, Travel, Work).  
+- **Expense Chart**: Visual representation of spending across categories.  
+- Simple and user-friendly interface.  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
+- Flutter  
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshots
+- Home Screen  
+- Add Expense Screen  
+- Expense Chart  
+
+```markdown
+![Home Screen](screenshots/home.png)  
+![Add Expense](screenshots/add.png)  
+![Expense Chart](screenshots/chart.png)  
