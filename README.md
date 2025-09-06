@@ -27,5 +27,5 @@ The app also provides a **visual chart** to show which category has the highest 
 - Add Expense Screen
 
 ```markdown
-![Home Screen](screenshots/home.png)  
-![Add Expense](screenshots/add.png)
+![Home Screen](screenshots/home.jpg)  
+![Add Expense](screenshots/add.jpg)
