@@ -18,14 +18,21 @@ The app also provides a **visual chart** to show which category has the highest 
 
 ## Technologies
 - Flutter  
-- Dart
+- Dart  
 
 ---
 
-## 📸 Screenshots
-- Home Screen  
-- Add Expense Screen
+## Screenshots
 
-```markdown
-![Home Screen](screenshots/home.jpg)  
-![Add Expense](screenshots/add.jpg)
+### Home Screen
+<img src="https://github.com/Only1Ansary/Expense-App/blob/main/screenshots/home.jpg?raw=true" width="300"/>
+
+### Add Expense
+<img src="https://github.com/Only1Ansary/Expense-App/blob/main/screenshots/add.jpg?raw=true" width="300"/>
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Only1Ansary/Expense-App.git
