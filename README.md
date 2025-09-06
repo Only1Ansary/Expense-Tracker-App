@@ -25,10 +25,10 @@ The app also provides a **visual chart** to show which category has the highest 
 ## Screenshots
 
 ### Home Screen
-<img src="https://github.com/Only1Ansary/Expense-App/blob/main/screenshots/home.jpg?raw=true" width="300"/>
+<img src="https://github.com/Only1Ansary/Expense-Tracker-App/blob/main/screenshots/home.jpg?raw=true" width="300"/>
 
 ### Add Expense
-<img src="https://github.com/Only1Ansary/Expense-App/blob/main/screenshots/add.jpg?raw=true" width="300"/>
+<img src="https://github.com/Only1Ansary/Expense-Tracker-App/blob/main/screenshots/add.jpg?raw=true" width="300"/>
 
 ---
 
