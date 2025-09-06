@@ -27,5 +27,6 @@ The app also provides a **visual chart** to show which category has the highest 
 - Add Expense Screen
 
 ```markdown
-![Home Screen](screenshots/home.jpg)  
+![Home Screen](https://github.com/Only1Ansary/Expense-App/blob/main/screenshots/home.jpg?raw=true)
 ![Add Expense](https://github.com/Only1Ansary/Expense-App/blob/main/screenshots/add.jpg?raw=true)
+
